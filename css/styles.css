@@ -137,40 +137,6 @@ a:hover{
     text-decoration:underline;
 
 }
-.py-pic{
-    position: absolute;
-    left:330px;
-    top:1080px;
-    width:100px;
-   
-}
-.java-pic{
-    position: absolute;
-    left:330px;
-    top:1260px;
-    width:100px;
-    
-    height:130px;
-  
-  
-
-  
-}
-.react-pic{
-  
-    position:absolute;
-    right:310px;
-    top:1100px;
-    width:100px;
-}
-.mysql-pic{
-    position:absolute;
-    right:280px;
-    top:1250px;
-    width:150px;
-    height:150px;
-   
-}
 
 hr{
     border:dotted #66BFBF 6px;
@@ -190,10 +156,6 @@ hr{
   
     background-color:#dbf6e9;
 }
-
-.project-col{
-    margin:18px 50px ;
-}
 .h2-edu{
     margin:0 auto 0 auto;
     padding-top:0px;
@@ -204,12 +166,6 @@ hr{
 
     
 }
-.project-row{
-    padding-top:30px;
-    
-
-}
-
 .education-row{
    
     padding-top:100px;
@@ -225,34 +181,8 @@ hr{
     position:absolute;
     top:25px;
     left:25px;
-    color:#02475e;
+    color:#007bff;
 } 
-.tooltip {
-    position: relative;
-    display: inline-block;
-    border-bottom: 1px dotted black;
-  }
-  
-  .tooltip .tooltiptext {
-    visibility: hidden;
-    width: 120px;
-    background-color: black;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: 5px 0;
-    
-    /* Position the tooltip */
-    position: absolute;
-    z-index: 1;
-    bottom: 100%;
-    left: 50%;
-    margin-left: -60px;
-  }
-  
-  .tooltip:hover .tooltiptext {
-    visibility: visible;
-  }
 p{
     margin-bottom:0;
 }
