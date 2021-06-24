@@ -60,7 +60,7 @@ a{
     position:relative;
 }
 a:hover{
-    color:#EAF6F6;
+    color:#66BFBF;
 }
 .navbar{
     
@@ -106,22 +106,74 @@ a:hover{
     
    
 }
+.heading{
+    padding-top:20px;
+}
 .about{
 
     font-family: 'Merriweather',serif;
     font-size:15px;
-    margin:0 auto 0 auto;
-    width:30%;
-   
+  
+   padding-top:20px;
+  
 
+}
+.about-pic{
+    padding-top:20px;
+    
+
+}
+.html{
+    height:200px;
+    width:300px;
+    position: absolute;
+    left:180px;
+
+}
+.ml{
+    padding:0px;
 }
 .pro{
     text-decoration:underline;
 
 }
+.py-pic{
+    position: absolute;
+    left:330px;
+    top:1080px;
+    width:100px;
+   
+}
+.java-pic{
+    position: absolute;
+    left:330px;
+    top:1260px;
+    width:100px;
+    
+    height:130px;
+  
+  
+
+  
+}
+.react-pic{
+  
+    position:absolute;
+    right:310px;
+    top:1100px;
+    width:100px;
+}
+.mysql-pic{
+    position:absolute;
+    right:280px;
+    top:1250px;
+    width:150px;
+    height:150px;
+   
+}
 
 hr{
-    border:dotted #EAF6F6 6px;
+    border:dotted #66BFBF 6px;
     border-bottom: none;
     width:4%;
     margin:50px auto 50px auto;
@@ -138,6 +190,10 @@ hr{
   
     background-color:#dbf6e9;
 }
+
+.project-col{
+    margin:18px 50px ;
+}
 .h2-edu{
     margin:0 auto 0 auto;
     padding-top:0px;
@@ -148,20 +204,73 @@ hr{
 
     
 }
+.project-row{
+    padding-top:30px;
+    
+
+}
+
 .education-row{
    
     padding-top:100px;
     width:50%;
     margin:0 auto 0 auto;
    }
+.education-logo{
+    position:absolute;
+    top:15px;
+    left:15px;
+}
+ .about-logo{
+    position:absolute;
+    top:25px;
+    left:25px;
+    color:#02475e;
+} 
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+  }
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
 p{
     margin-bottom:0;
 }
 .skill-row{
-    width:50%;
+    width:100%;
     margin:0 auto 0 auto;
    
     
+}
+.pi{
+    position:absolute;
+    top:25px;
+    right:25px;
+}
+.pi-next{
+    position: relative;
+    top:25px;
+    left:25px;
 }
 .Inter{
     border-radius: 50%;
@@ -249,7 +358,7 @@ table{
     padding:3% 2%;
 }
 .project p{
-    font-size:15px;
+    font-size:13px;
     text-align: justify;
     word-spacing: 0px;
 

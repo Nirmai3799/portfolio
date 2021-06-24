@@ -1,0 +1,262 @@
+{
+    "index.html": [
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:14:33",
+            "keyStrokeInfo": "",
+            "position": "1,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 128,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:14:45",
+            "keyStrokeInfo": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n   \r\n    <link rel=\"icon\" href=\"favicon.ico\">\r\n    <link href=\"https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Sacramento\" rel=\"stylesheet\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Aloori Nirmai</title>\r\n    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css\" integrity=\"sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l\" crossorigin=\"anonymous\">\r\n    <link rel=\"stylesheet\" href=\"css/styles.css\">\r\n\r\n    <script src=\"https://code.jquery.com/jquery-3.5.1.slim.min.js\" integrity=\"sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj\" crossorigin=\"anonymous\"></script>\r\n    <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js\" integrity=\"sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns\" crossorigin=\"anonymous\"></script>\r\n   \r\n</head>\r\n\r\n<body>\r\n    \r\n    \r\n    <div class=\"top-container\">\r\n        <nav class=\"navbar navbar-expand-lg navbar-success\">\r\n            <a class=\"navbar-brand\" href=\"index.html\">Portfolio</a>\r\n            <button class=\"navbar-toggler ml-auto\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarTogglerDemo01\" aria-controls=\"navbarTogglerDemo01\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\r\n                <span class=\"snavbar-toggler-icon\"></span>\r\n              </button>\r\n              <div class=\"collapse navbar-collapse\" id=\"#navbarTogglerDemo01\">\r\n            <ul class=\"navbar-nav  ml-auto\">\r\n                <li class=\"nav-item\">\r\n                    <a class=\"nav-link\" href=\"#\">About</a>\r\n        \r\n                </li>\r\n                <li class=\"nav-item\">\r\n                    <a class=\"nav-link\" href=\"education.html\">Education</a>\r\n                </li>\r\n                <li class=\"nav-item\">\r\n                    <a class=\"nav-link\" href=\"project.html\">Projects</a>\r\n                </li>\r\n            </ul>\r\n        </nav>\r\n        <img class=\"top-cloud\" src=\"images/cloud.png\">\r\n        <h1>I'm Nirmai.</h1>\r\n        <p>a <span class=\"pro\">pro</span>grammer</p>\r\n        <img class=\"bottom-cloud\"src=\"images/cloud.png\">\r\n        <img class=\"programmer-pic\"src=\"https://static.vecteezy.com/system/resources/previews/000/229/542/original/young-caucasian-woman-as-female-developer-profession-vector.jpg\">\r\n    \r\n    </div>\r\n    <div class=\"middle-container\">\r\n       \r\n            <div class=\"row\">\r\n                <div class=\"col-lg-4\">\r\n                    <img class=\"about-pic\" src=\"images/wt (1).png\" width=\"50%\">\r\n                </div>\r\n                <div class=\"col-lg-4\">\r\n                    <h2 class=\"heading\">About Me</h2>       \r\n                    <p class=\"about\">Iam an IT enthusiastic. I am a person with commitment to learn and explore new skills. I am interested in web technologies and Machine Learning. </p>\r\n                </div>\r\n                <div class=\"col-lg-4\">\r\n                    <img  class=\"about-pic\" src=\"images/wt (2).png\" width=\"50%\">                    \r\n                </div>\r\n            </div> \r\n            <div class=\"profile\">         \r\n        </div>\r\n        <hr>\r\n        <div class=\"skills\">\r\n       \r\n                <h2>My Skills.</h2>      \r\n          \r\n                <div class=\"skill-row\">\r\n                  <table  cellspacing=\"10\">\r\n                     \r\n                      <tr >            \r\n                          <td>Python</td>\r\n                          <td>⭐⭐⭐⭐</td>\r\n                      </tr>\r\n                      <tr>\r\n                          <td>HTML</td>\r\n                          <td>⭐⭐⭐⭐</td>\r\n                      </tr>\r\n                      <tr>\r\n                          <td>Data Science </td>\r\n                          <td>⭐⭐⭐</td>\r\n                      </tr>\r\n                      <tr>\r\n                          <td>Java </td>\r\n                          <td>⭐⭐⭐</td>\r\n                      </tr>\r\n                      <tr>\r\n                          <td>MySQL </td>\r\n                          <td>⭐⭐⭐</td>\r\n                      </tr>\r\n                      <tr>\r\n                          <td>Machine Learning </td>\r\n                          <td>⭐⭐⭐</td>\r\n                      </tr>\r\n                      <tr>\r\n                          <td>Scrum</td>\r\n                          <td>⭐⭐</td>\r\n                      </tr>\r\n                      <tr>\r\n                          <td>React JS</td>\r\n                          <td>⭐⭐</td>\r\n                      </tr>                      \r\n                  </table> \r\n           \r\n            \r\n        </div>\r\n         \r\n        <hr>\r\n        <div class=\"contact-me\">\r\n          <h2>Get In Touch</h2>\r\n          <h3>If you want to know more about me.</h3>\r\n          \r\n          <a class=\"index-btn\" href=\"mailto:nirmaialuri@msitprogram.net\">CONTACT ME</a>\r\n        </div>\r\n      </div>\r\n      \r\n      \r\n      <div class=\"bottom-container\">\r\n        <a class=\"footer-link\" href=\"https://www.linkedin.com/in/nirmaialoori\">LinkedIn</a>\r\n        \r\n        <p class=\"copyright\">© 2021 Aloori Nirmai.</p>\r\n      </div>\r\n      \r\n    \r\n</body>\r\n</html>",
+            "position": "1,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:22:00",
+            "keyStrokeInfo": "",
+            "position": "53,58"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:22:02",
+            "keyStrokeInfo": "",
+            "position": "60,59"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:22:40",
+            "keyStrokeInfo": "",
+            "position": "53,60"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:22:40",
+            "keyStrokeInfo": "",
+            "position": "53,59"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:22:41",
+            "keyStrokeInfo": "",
+            "position": "53,58"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:22:41",
+            "keyStrokeInfo": "",
+            "position": "53,57"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:22:41",
+            "keyStrokeInfo": "",
+            "position": "53,56"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:22:42",
+            "keyStrokeInfo": "W",
+            "position": "53,56"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:22:42",
+            "keyStrokeInfo": "T",
+            "position": "53,57"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:22:57",
+            "keyStrokeInfo": "",
+            "position": "60,61"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:22:57",
+            "keyStrokeInfo": "",
+            "position": "60,60"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:22:57",
+            "keyStrokeInfo": "",
+            "position": "60,59"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:22:57",
+            "keyStrokeInfo": "",
+            "position": "60,58"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:22:58",
+            "keyStrokeInfo": "",
+            "position": "60,57"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:23:00",
+            "keyStrokeInfo": "M",
+            "position": "60,57"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:23:00",
+            "keyStrokeInfo": "L",
+            "position": "60,58"
+        }
+    ],
+    "project.html": [
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:15:13",
+            "keyStrokeInfo": "",
+            "position": "1,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 114,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:15:14",
+            "keyStrokeInfo": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <link rel=\"stylesheet\" href=\"css/styles.css\">\r\n    <link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css\" integrity=\"sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO\" crossorigin=\"anonymous\">\r\n    <script defer src=\"https://use.fontawesome.com/releases/v5.0.7/js/all.js\"></script>\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Document</title>\r\n</head>\r\n<body class=\"edu-body\">\r\n    <div class=\"project\">\r\n        <a class=\"education-logo\" href=\"education.html\"><i class=\"fas fa-graduation-cap fa-2x\"></i></a>\r\n        <h2 class=\"project-h2\">Projects</h2>\r\n      \r\n        <div class=\"row\">\r\n          <div class=\"project-col card col-lg-4 col-md-6\">\r\n              <div class=\"card-header\">\r\n                <h3 class=\"project-h3\">I-LMS</h3>\r\n            </div>\r\n            <div class=\"card-body\">\r\n             <h5 class=\"project-h5\">Project Description</h5>\r\n            <p>I-LMS means Intelligent Learningb Management System. This Project is an attempt to invent Aritificial Intelligence techniques to personalize learning by doing education. The main feature is to trace student learning activity in the scaffold identies student learning difficulties. Learning diagnosis models to recommend fully automated or human powered support to the student.</p>\r\n            <p>To know more about this project</p>\r\n            </div>\r\n            <div class=\"card-footer\">\r\n              <a style ='text-decoration: none' href= \"ilms-sprint.html\" ><button class=\"btn btn-md btn-block btn-outline-secondary\"  style=\"width:90px;margin:0 auto 0 auto;\" type=\"button\">Click Here</button></a>\r\n            </div>\r\n          </div>\r\n          \r\n          <div class=\" project-col card col-lg-4 col-md-6\">\r\n              <div class=\"card-header\">\r\n                <h3 class=\"project-h3\">Charity ML</h3>\r\n              </div>\r\n              <div class=\"card-body\">\r\n                <h5 class=\"project-h5\">Project Description</h5>\r\n                <p>CharityML is a fictitious charity organization located in the heart of Silicon Valley that was established to provide financial support for people eager to learn machine learning.\r\n              After nearly 32,000 letters were sent to people in the community, CharityML determined that every donation they received came from someone that was making more than $50,000 annually.\r\n              So it has decided to send letters to residents of California, but to only those most likely to donate to the charity.\r\n              Goal is to help in building an algorithm to best identify potential donors and reduce overhead cost of sending mail.</p>\r\n              <p>To know more about this project</p>\r\n              </div>\r\n              <div class=\"card-footer\">\r\n              <a style ='text-decoration: none' href=\"charityml.html\"><button  class=\"btn btn-md btn-block btn-outline-secondary\" style=\"width:90px;margin:0 auto 0 auto;\"   type=\"button\">Click Here</button></a>\r\n              </div>     \r\n            </div>\r\n            <div class=\"project-col card col-lg-4 col-md-6\">\r\n              <div class=\"card-header\">\r\n                <h3 class=\"project-h3\">Dots and Boxes</h3>\r\n              </div>\r\n              <div class=\"card-body\">\r\n                <h5 class=\"project-h5\">Project Description</h5>\r\n                <p>Need to be updated</p>\r\n                <p>To know more about this project</p>\r\n              </div>\r\n              <div class=\"card-footer\">\r\n                <button class=\" btn btn-md btn-block btn-outline-secondary\" style=\"width:90px;margin:0 auto 0 auto;\"  type=\" button\">Click Here</button>\r\n              </div>  \r\n            </div>\r\n          </div >\r\n    \r\n    <div class=\"row\">\r\n        <div class=\"project-col col-lg-4 col-md-6\">\r\n          <div class=\"card\">\r\n            <div class=\"card-header\">\r\n              <h3 class=\"project-h3\">Banking Application</h3>\r\n          </div>\r\n          <div class=\"card-body\">\r\n           <h5 class=\"project-h5\">Project Description</h5>\r\n          <p>Need to be updated.</p>\r\n          <p>To know more about this project</p>\r\n          <button  class=\"btn btn-md btn-block btn-outline-secondary\" style=\"width:90px;margin:0 auto 0 auto;\"  type=\"button\">Click Here</button>\r\n    </div>\r\n        </div >\r\n        </div>\r\n        <div class=\" project-col col-lg-4 col-md-6\">\r\n    <div class=\"card\">\r\n      <div class=\"card-header\">\r\n      <h3 class=\"project-h3\"> Employee Attrition</h3>\r\n    </div>\r\n    <div class=\"card-body\">\r\n       \r\n      <h5 class=\"project-h5\">Project Description</h5>\r\n     \r\n      <p>Need to be updated</p>\r\n      <p>To know more about this project</p>\r\n      <button  class=\"btn btn-md btn-block btn-outline-secondary\"  style=\"width:90px;margin:0 auto 0 auto;\"  type=\"button\">Click Here</button>\r\n  </div>\r\n  </div>\r\n  </div >\r\n  <div class=\"project-col col-lg-4 col-md-6\">\r\n  <div class=\"card\">\r\n    <div class=\"card-header\">\r\n    \r\n      <h3 class=\"project-h3\"></h3>\r\n  </div>\r\n  <div class=\"card-body\">\r\n    <h5 class=\"project-h5\">Project Description</h5>\r\n    \r\n    <p>Need to be updated</p>\r\n    <p>To know more about this project</p>\r\n    <button class=\" btn btn-md btn-block btn-outline-secondary\" style=\"width:90px;margin:0 auto 0 auto;\"type=\" button\">Click Here</button>\r\n  </div>\r\n  </div >\r\n  </div>\r\n  </div>\r\n  \r\n\r\n</div>\r\n\r\n</body>\r\n</html>",
+            "position": "1,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 10:11:35",
+            "keyStrokeInfo": " ",
+            "position": "17,24"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 10:11:36",
+            "keyStrokeInfo": "p",
+            "position": "17,25"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 10:11:36",
+            "keyStrokeInfo": "r",
+            "position": "17,26"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 10:11:36",
+            "keyStrokeInfo": "o",
+            "position": "17,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 10:11:37",
+            "keyStrokeInfo": "j",
+            "position": "17,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 10:11:37",
+            "keyStrokeInfo": "e",
+            "position": "17,29"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 10:11:37",
+            "keyStrokeInfo": "c",
+            "position": "17,30"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 10:11:37",
+            "keyStrokeInfo": "t",
+            "position": "17,31"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 10:11:38",
+            "keyStrokeInfo": "-",
+            "position": "17,32"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 10:11:38",
+            "keyStrokeInfo": "r",
+            "position": "17,33"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 10:11:39",
+            "keyStrokeInfo": "o",
+            "position": "17,34"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 10:11:39",
+            "keyStrokeInfo": "w",
+            "position": "17,35"
+        }
+    ],
+    "ilms-sprint.html": [
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:15:40",
+            "keyStrokeInfo": "",
+            "position": "1,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 153,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:15:40",
+            "keyStrokeInfo": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <link rel=\"stylesheet\" href=\"css/styles.css\">\r\n    <link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css\" integrity=\"sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO\" crossorigin=\"anonymous\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <script src=\"https://code.jquery.com/jquery-3.3.1.slim.min.js\" integrity=\"sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo\" crossorigin=\"anonymous\"></script>\r\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js\" integrity=\"sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49\" crossorigin=\"anonymous\"></script>\r\n    <script src=\"https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js\" integrity=\"sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy\" crossorigin=\"anonymous\"></script>\r\n    <title>Document</title>\r\n</head>\r\n<body class=\"ilms-body\">\r\n  <a href=\"project.html\"><img class=\"pi-next\"src=\"images/project-icon.png\" width=3%></a>\r\n    <div id=\"carouselExampleControls\" class=\"carousel slide\" data-ride=\"carousel\" >\r\n     \r\n        <div class=\"carousel-inner\">\r\n          <div class=\"carousel-item active\">\r\n          \r\n            <div class=\"my-card card bg-light mb-3\" style=\"max-width: 55rem;\">\r\n                <div class=\"card-header\">Sprint-1</div>\r\n                <div class=\"card-body\">\r\n                  <h5 class=\"card-title\">Work Description</h5>\r\n                  <p class=\"card-text\"> Discussed with team members on sketching of the prototype. We all worked on paint for sketching our idea. Presented the sketch to mentor using Google Slides, then by using Just in Mind application we had built our prototype for the website. We Splitted into Two teams.</p>\r\n                  <p><b>Duration:</b> 03 May, 2021 to 08 May, 2021</p>\r\n\r\n                   <p> <b>Plan:</b> To design a prototype for the product.</p>\r\n                    \r\n                    <p><b>Technologies:</b> Google Slides, Just in Mind Application, Paint.</p>\r\n                    \r\n                    <p><b>Team members :</b> Manish, Nirmai, Neeraj, Satyanarayana, Santhosh, Karthik</p>\r\n                    <br>\r\n                    <img src=\"images/sprint1.png \" width=\"100%\">\r\n                    \r\n                </div>\r\n              </div>\r\n          </div>\r\n          <div class=\"carousel-item\">\r\n            <div class=\"my-card card bg-light mb-3\" style=\"max-width: 55rem;\">\r\n                <div class=\"card-header\">Sprint-2</div>\r\n                <div class=\"card-body\">\r\n                  <h5 class=\"card-title\">Work Description</h5>\r\n                  <p class=\"card-text\">Intially we had gone through React JS resources. Then created a navigation bar with left and right arrows to navigate to next and previous learning objectives and back buutton to redirect to landing page by using React JS components, we used Bootstrap for styling. Then we created two cards by React Card component one for learning objective and other for recommendations as well as we placed two buttons in learning objective section one is Start Learning and other is Take assessment.</p>\r\n                  <p><b>Duration:</b> 10 May, 2021 to 15 May, 2021</p>\r\n\r\n                  <p> <b>Plan:</b>  We need to build the page that should contain Navigation bar with learning objective name, Learning objective description on the left with two buttoms and recommendations for that learning objective on right.</p>\r\n                   \r\n                   <p><b>Technologies:</b> React JS, HTML, CSS, Bootstrap</p>\r\n                   \r\n                   <p><b>Team members:</b> Manish, Nirmai, Neeraj</p>\r\n                   <br>\r\n                   <img src=\"images/ilms.PNG\" width=\"100%\">\r\n                </div>\r\n              </div>\r\n          </div>\r\n          <div class=\"carousel-item\">\r\n            <div class=\" my-card card bg-light mb-3\" style=\"max-width: 55rem;\" >\r\n                <div class=\"card-header\">Sprint-3</div>\r\n                <div class=\"card-body\">\r\n                  <h5 class=\"card-title\">Work Description</h5>\r\n                  <p class=\"card-text\">Integrated sprint 2 code of both teams. We created a progress bar by which user can understand how much  course was completed. It was done by using React component Progress bar which  Dynamically from user to user based on their completion of their learning Objectives. Later we pushed our code into Github branch that we created for this Sprint.</p>\r\n                  <p><b>Duration:</b> 17 May, 2021 to 22 May, 2021</p>\r\n\r\n                  <p> <b>Plan:</b>  To build a Progress bar for the course, it should reprsent how much the course is completed for the user. Update the Enginnering work.</p>\r\n                   \r\n                   <p><b>Technologies:</b> Github, ReactJs, Bootstrap.</p>\r\n                   \r\n                   <p><b>Team members:</b> Manish, Nirmai, Neeraj</p>\r\n                   <br>\r\n                   <img src=\"images/ilms1.PNG\" width=\"100%\">\r\n                </div>\r\n              </div>\r\n          </div>\r\n          <div class=\"carousel-item\">\r\n            <div class=\"my-card card bg-light mb-3\" style=\"max-width: 55rem;\">\r\n                <div class=\"card-header\">Sprint-4</div>\r\n                <div class=\"card-body\">\r\n                  <h5 class=\"card-title\">Work Description</h5>\r\n                  <p class=\"card-text\">Intially gone through the resources for pagination then started implementing. We got Pagination and adjusted on the top center of the page by using Bootstap for styling and ReactJs. Then we tried to display the static data by fetching it from the JSON file. We helped other team in creating the character by canva.</p>\r\n                  <p><b>Duration:</b> 24 May, 2021 to 29 May, 2021</p>\r\n\r\n                  <p> <b>Plan:</b> To build a pagination for the learning objectives, Complete the Documentation for the code.</p>\r\n                   \r\n                   <p><b>Technologies:</b> ReactJS, Bootstrap, Visual Studio.</p>\r\n                   \r\n                   <p><b>Team members:</b> Manish, Nirmai</p>\r\n                   <br>\r\n                   <img src=\"images/p3.PNG\" width=\"100%\">\r\n                </div>\r\n              </div>\r\n          </div>\r\n          <div class=\"carousel-item\">\r\n            <div class=\"my-card card bg-light mb-3\" style=\"max-width: 55rem;\">\r\n                <div class=\"card-header\">Sprint-5</div>\r\n                <div class=\"card-body\">\r\n                  <h5 class=\"card-title\">Work Description</h5>\r\n                  <p class=\"card-text\">Intially gone through the resources reagrding backend and created GCP account as well as worked on few basic commands on running hello world App. We continued our work on front end parellely and successful implemented the navigation of buttons from one page to another page\r\n                  </p>\r\n                  <p><b>Duration:</b>31 May, 2021 to 5 June, 2021\r\n                  </p>\r\n\r\n                  <p> <b>Plan:</b>  To navigate from one page to another by clicking on a button and integrating all codes and to start working on backend\r\n                  </p>\r\n                   \r\n                   <p><b>Technologies:</b> React JS,Visual Studio, Bootstrap\r\n                   </p>\r\n                   \r\n                   <p><b>Team members:</b> Manish, Nirmai</p>\r\n                   <br>\r\n                   <video controls autoplay  width=100%>\r\n                    <source src=\"images/sprnt-5.mp4\"  type=\"video/mp4\">\r\n                   \r\n                  </video>\r\n                  \r\n                </div>\r\n              </div>\r\n          </div>\r\n          <div class=\"carousel-item\">\r\n            <div class=\"my-card card bg-light mb-3\" style=\"max-width: 55rem;\">\r\n                <div class=\"card-header\">Sprint-6</div>\r\n                <div class=\"card-body\">\r\n                  <h5 class=\"card-title\">Work Description</h5>\r\n                  <p class=\"card-text\"> We started with the implementation the Menu bar to list all the modules for the course, continued our work to display list of recommendations to the user in the form of dropdown. The data we fetched is from JSON file which is stoed in Github. Finally we added comptency level.\r\n                  </p>\r\n                  <p><b>Duration:</b> 7 June, 2021 to 12 June, 2021\r\n                  </p>\r\n\r\n                  <p> <b>Plan:</b> To implement the menu bar, In this user need to get all modules names and their learning objectives .\r\n                  </p>\r\n                   \r\n                   <p><b>Technologies:</b> React JS,Visual Studio, Bootstrap\r\n                   </p>\r\n                   \r\n                   <p><b>Team members:</b> Manish, Nirmai</p>\r\n                   <br>\r\n                   <img src=\"images/sprnt6.png\" width=\"100%\">\r\n                </div>\r\n              </div>\r\n          </div>\r\n        \r\n        </div>\r\n        <a class=\"carousel-control-prev\" href=\"#carouselExampleControls\" role=\"button\" data-slide=\"prev\">\r\n          <span class=\"carousel-control-prev-icon\" aria-hidden=\"true\"></span>\r\n          <span class=\"sr-only\">Previous</span>\r\n        </a>\r\n        <a class=\"carousel-control-next\" href=\"#carouselExampleControls\" role=\"button\" data-slide=\"next\">\r\n          <span class=\"carousel-control-next-icon\" aria-hidden=\"true\"></span>\r\n          <span class=\"sr-only\">Next</span>\r\n        </a>\r\n      </div>\r\n</body>\r\n</html>",
+            "position": "1,1"
+        }
+    ],
+    "education.html": [
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:15:58",
+            "keyStrokeInfo": "",
+            "position": "1,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 46,
+            "keyStrokeTimeStamp": "Wed Jun 16 2021 10:15:59",
+            "keyStrokeInfo": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <link rel=\"icon\" href=\"favicon.ico\">\r\n    <script defer src=\"https://use.fontawesome.com/releases/v5.0.7/js/all.js\"></script>\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css\" integrity=\"sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO\" crossorigin=\"anonymous\">\r\n    <link rel=\"stylesheet\" href=\"css/styles.css\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Aloori Nirmai</title>\r\n</head>\r\n<body class=\"edu-body\">\r\n    \r\n    <div class=\"education\">\r\n      <a class=\"about-logo\" href=\"index.html\"><i class=\"far fa-2x fa-address-card\"></i></a>\r\n      <a href=\"project.html\"><img class=\"pi\"src=\"images/project-icon.png\" width=3%></a>\r\n        <h2 class=\"h2-edu\">Education</h2>\r\n        <div class=\"education-row\">\r\n\r\n           \r\n          <img class=\"SSC\"  src=\"https://i.ytimg.com/vi/DdtrRkSD_jk/hqdefault.jpg\" alt=\"\">\r\n          <h3 class=\"data\">SSC</h3>\r\n          <p style=\"font-size:25px;\"class=\"data\">Paramita High School<br>GPA : 9.5<br>Year : 2014</p>\r\n        </div>\r\n        <div class=\"education-row\">\r\n          <img class=\"Inter\" src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbA-Qqn9yuoNK5UXKrRZyp1AB6BB1Ao--aImfsz1oAhAmsdN24To_hXSLCnH5M7uYlY7E&usqp=CAU\" alt=\"\">\r\n          <h3 class=\"data1\">Secondary school education</h3>\r\n          <p  style=\"font-size:25px;\" class=\"data1\">Sri Chaintanya junior college<br>Percentage : 93% <br>Year: 2014-2016</p>\r\n        </div>\r\n        <div class=\"education-row\">\r\n            <img class=\"BTech\" src=\"images/jbit.png\" alt=\"\">\r\n            <h3 class=\"data\">Bachelor of Technology</h3>\r\n            <p  style=\"font-size:25px;\" class=\"data\">JB Institute of Engineering and Technology<br>GPA : 7.5 <br>Year: 2016-2020</p>\r\n          </div>\r\n        <div class=\"education-row\">\r\n            <img class=\"PG\" src=\"images/ms.png\" alt=\"\">\r\n            <h3 class=\"data1\">Master of Science</h3>\r\n            <p  style=\"font-size:25px;\" class=\"data1\">International Institute of Information Technology <br>GPA : 9.1 <br>Year: 2020-2022</p>\r\n          </div>\r\n\r\n      </div>\r\n    \r\n    \r\n</body>\r\n</html>",
+            "position": "1,1"
+        }
+    ]
+}
